@@ -1,0 +1,23 @@
+Mulai : 2026-11-24 23:07:58 | komputer: LAPTOP-P7QD9M2A | PAKAI_AUG = True, EPOCH = 20, FOLDS = [5]
+=== FOLD 5: 8070 gambar latih, 154 gambar validasi ===
+fold 5 | epoch   1 | train loss = 1.5866 | valid loss = 1.5758
+fold 5 | epoch   2 | train loss = 1.4408 | valid loss = 1.5525
+fold 5 | epoch   3 | train loss = 1.3482 | valid loss = 1.5222
+fold 5 | epoch   4 | train loss = 1.2811 | valid loss = 1.5223
+fold 5 | epoch   5 | train loss = 1.2248 | valid loss = 1.5116
+fold 5 | epoch   6 | train loss = 1.1777 | valid loss = 1.5101
+fold 5 | epoch   7 | train loss = 1.1285 | valid loss = 1.5356
+fold 5 | epoch   8 | train loss = 1.0898 | valid loss = 1.5590
+fold 5 | epoch   9 | train loss = 1.0554 | valid loss = 1.5505
+fold 5 | epoch  10 | train loss = 1.0199 | valid loss = 1.5558
+fold 5 | epoch  11 | train loss = 0.9913 | valid loss = 1.6085
+fold 5 | epoch  12 | train loss = 0.9630 | valid loss = 1.6125
+fold 5 | epoch  13 | train loss = 0.9436 | valid loss = 1.6481
+fold 5 | epoch  14 | train loss = 0.9173 | valid loss = 1.6586
+fold 5 | epoch  15 | train loss = 0.8913 | valid loss = 1.6769
+fold 5 | epoch  16 | train loss = 0.8664 | valid loss = 1.6641
+fold 5 | epoch  17 | train loss = 0.8512 | valid loss = 1.6659
+fold 5 | epoch  18 | train loss = 0.8341 | valid loss = 1.6705
+fold 5 | epoch  19 | train loss = 0.8152 | valid loss = 1.6966
+fold 5 | epoch  20 | train loss = 0.8025 | valid loss = 1.7377
+Selesai : 2026-11-24 23:22:15 | lama pelatihan: 14 menit 16 detik
